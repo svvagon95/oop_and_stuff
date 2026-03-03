@@ -1,0 +1,9 @@
+{
+  "name": "svvagon/oop-and-stuff",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  }
+}
